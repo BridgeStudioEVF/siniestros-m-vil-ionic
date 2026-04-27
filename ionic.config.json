@@ -1,0 +1,7 @@
+{
+  "name": "siniestros-m-vil-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
