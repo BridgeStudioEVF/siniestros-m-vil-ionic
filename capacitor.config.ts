@@ -1,8 +1,8 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'siniestros-m-vil-ionic',
+  appId: 'mx.bridgestudio.pcz',
+  appName: 'PCZ App',
   webDir: 'dist'
 };
 
